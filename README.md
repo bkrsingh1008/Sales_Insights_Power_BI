@@ -43,7 +43,7 @@ Data Model:
 
 Dashboard:
 --------------------
-See the full dashboard here - [Live Dashboard](https://img.shields.io/badge/dashboard-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiNTk1Nzk2YWItZDVlYy00MTQ1LTljOWQtN2FlZjUyZTZhMWUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+See the full dashboard here - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTk1Nzk2YWItZDVlYy00MTQ1LTljOWQtN2FlZjUyZTZhMWUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Insights and Results:
 -------------------------
