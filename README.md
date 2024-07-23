@@ -26,3 +26,27 @@ What we can Learn:
 11. Bookmarks
 12. Tooltips
 13. Slicer
+
+Business Glosarry:
+-----------------------
+1. Total Sales
+2. Total Boxes
+3. Total Shipments
+4. Total Costs
+5. Total Profit
+6. LBS %
+7. MoM change
+
+Data Model:
+----------------------
+![image](https://github.com/user-attachments/assets/e2b76f62-9977-4ae1-86c7-445094a7def9)
+
+Dashboard:
+--------------------
+https://app.powerbi.com/view?r=eyJrIjoiNTk1Nzk2YWItZDVlYy00MTQ1LTljOWQtN2FlZjUyZTZhMWUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+Insights and Results:
+-------------------------
+●	Developed an interactive dashboard to analyze $34M total sales, 6K shipments, $14M costs, and $21M profits, revealing sales trends. 
+
+●	Applied advanced data modeling and DAX optimization to track MoM growth, achieving a 10.2% LBS in shipment analysis, and delivering insights that led to a 60.3% profit increase.
